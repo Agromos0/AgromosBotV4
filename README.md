@@ -3,12 +3,8 @@
 
 ### *`😼💚AGROMOS SP BOT V4 DEVICE😼💚`*
 
-
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
-
-
-
 
 ### ` 💚INSTALACIÓN TERMUX DEL BOT💚 `
 ```bash
@@ -31,7 +27,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### ` ACTIVAR ESTO CUANDO SE CIERRECEL TERMUX O SE DETENGA  EL BOT`
+### ` ACTIVAR ESTO CUANDO SE CIERRE EL TERMUX O SE DETENGA  EL BOT`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -39,14 +35,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `👉 OBTENER OTRO CODIGO QR si se cierra el termux`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd TheMystic-Bot-MD
-> rm -rf session.data.json
-> npm start
-```
 ### 👑Dudas o sugerencias sobre el bot👑
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
@@ -70,7 +58,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 <a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
-
 
 ### `💚Si necesitas  video de instalación aqui💚`
 ### `Video tutorial para instalar el Bot👈`
@@ -101,7 +88,4 @@ excesivamente lento (depende del WhatsApp igual)
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 
-
-[![AGROMOS SP](https://github.com/Agromos0/AgromosBotV2.png?size=100)](https://github.com/Agromos0/AgromosBotV2)
-```bash
-`Agromos sp - Bot ___ By agromos` 
+`Agromos sp - Bot ___santi creadores oficiales del bot
